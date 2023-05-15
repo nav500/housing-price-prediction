@@ -21,6 +21,8 @@ This project predicts the median house prices of California's districts.
 1. Install all the required softwares/packages.
 2. Download the project.
 3. Open the project with jupyter lab/ jupyter notebook.
+4. Open the `house-price-prediction.ipynb` file.
+5. Open the `data` folder for the datasets.
 
 # Data
 
